@@ -23,3 +23,13 @@ This repository contains Machine Learning (ML) and Deep Learning (DL) projects d
 - ANN Model Architecture (Layers, Activation Functions)  
 - Model Training & Hyperparameter Tuning  
 - Performance Evaluation  
+
+
+### 3️⃣ Deep Learning - CNN Image Classification (Cats vs. Dogs)  
+📌 **File:** `CNN_Cats_vs_Dogs.ipynb`  
+🔹 **Objective:** Classify images of cats and dogs using a Convolutional Neural Network (CNN).  
+🔹 **Techniques Used:**  
+- Data Preprocessing (Resizing, Augmentation, Normalization)  
+- CNN Architecture (Conv2D, MaxPooling, Flatten, Dense Layers)  
+- Model Training & Hyperparameter Tuning  
+- Performance Evaluation (Accuracy)  
