@@ -26,7 +26,7 @@ This repository contains Machine Learning (ML) and Deep Learning (DL) projects d
 
 
 ### 3️⃣ Deep Learning - CNN Image Classification (Cats vs. Dogs)  
-📌 **File:** `CNN_Cats_vs_Dogs.ipynb`  
+📌 **File:** `CNN_Image_Classification_Deep_Learning (2).ipynb`  
 🔹 **Objective:** Classify images of cats and dogs using a Convolutional Neural Network (CNN).  
 🔹 **Techniques Used:**  
 - Data Preprocessing (Resizing, Augmentation, Normalization)  
