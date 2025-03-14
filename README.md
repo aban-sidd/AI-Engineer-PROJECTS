@@ -1,9 +1,9 @@
 # AI-ML-PROJECTS  
 
-## Overview  
+## 🔹 Overview  
 This repository contains Machine Learning (ML) and Deep Learning (DL) projects demonstrating various model-building techniques, including data preprocessing, feature engineering, and model evaluation.  
 
-## Projects  
+## 📂 Projects  
 
 ### 1️⃣ ML - Customer Churn Prediction  
 📌 **File:** `ML_Telco_Customer_Churn.ipynb`  
@@ -33,3 +33,11 @@ This repository contains Machine Learning (ML) and Deep Learning (DL) projects d
 - CNN Architecture (Conv2D, MaxPooling, Flatten, Dense Layers)  
 - Model Training & Hyperparameter Tuning  
 - Performance Evaluation (Accuracy)  
+
+🚀 Technologies & Tools
+Python, NumPy, Pandas, Matplotlib
+Scikit-Learn, TensorFlow, Keras
+Jupyter Notebook, Google Colab
+
+📌 Learning & Next Steps
+I am currently improving my deep learning skills and exploring advanced AI/ML topics. Feel free to check out my projects 
