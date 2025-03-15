@@ -25,7 +25,6 @@ Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Jupyter Note
 🔹 **Techniques Used:**
 
 - Data Preprocessing (Feature Scaling)
-- Anomaly Detection Techniques
 - Handling Imbalanced Data (SMOTE, Over_Sampling)
 - Decision Tree
 - Model Evaluation (Confusion Matrix, Classification-Report)
