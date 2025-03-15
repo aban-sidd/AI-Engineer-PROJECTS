@@ -52,5 +52,5 @@ Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Jupyter Note
 - Performance Evaluation (Accuracy)
 
 
-####**📌 Learning & Next Steps**
+#### **📌 Learning & Next Steps**
 I am currently improving my deep learning skills and exploring advanced AI/ML topics. Feel free to check out my projects 
