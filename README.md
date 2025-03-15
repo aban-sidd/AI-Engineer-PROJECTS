@@ -9,7 +9,7 @@ Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Jupyter Note
 ## 📂 Machine Learning Projects
 
 ### 1️⃣ ML - Customer Churn Prediction
-**📌 File:** ML_Telco_Customer_Churn.ipynb
+##### **📌 File:** ML_Telco_Customer_Churn.ipynb
 **🔹 Objective:** Predict customer churn using ML techniques.
 **🔹 Techniques Used:**
 
