@@ -30,9 +30,9 @@ Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Jupyter Note
 - Model Evaluation (Confusion Matrix, Classification-Report)
 
 ### 3️⃣ AI-Powered Resume Screening (NLP)
-##### **📌 File: Machine_Learning/ML_Resume_Screening.ipynb
-##### **🔹 Objective: Automate resume screening using NLP techniques.
-##### **🔹 Techniques Used:
+##### **📌 File:** Machine_Learning/ML_Resume_Screening.ipynb
+##### **🔹 Objective:** Automate resume screening using NLP techniques.
+##### **🔹 Techniques Used:**
 
 - Text Preprocessing: Tokenization, Stopword Removal, Lemmatization
 - Feature Extraction: TF-IDF Vectorization
