@@ -29,6 +29,19 @@ Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Jupyter Note
 - Decision Tree
 - Model Evaluation (Confusion Matrix, Classification-Report)
 
+### 3️⃣ AI-Powered Resume Screening (NLP)
+##### **📌 File: Machine_Learning/ML_Resume_Screening.ipynb
+##### **🔹 Objective: Automate resume screening using NLP techniques.
+##### **🔹 Techniques Used:
+
+- Text Preprocessing: Tokenization, Stopword Removal, Lemmatization
+- Feature Extraction: TF-IDF Vectorization
+- Label Encoding for categorical target variables
+- Model Training: k-Nearest Neighbors (kNN) Classifier
+- OneVsOneClassifier for multi-class classification
+- Evaluation Metrics: Classification Report, Confusion Matrix
+- Accuracy: 99%
+
 ## 📂 Deep Learning Projects
 
 ### 1️⃣ Deep Learning - ANN for Energy Prediction
