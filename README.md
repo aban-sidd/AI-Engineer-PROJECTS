@@ -1,7 +1,7 @@
 # AI-ML-PROJECTS  
 
 ## 🔹 Overview  
-This repository contains Machine Learning (ML) and Deep Learning (DL) projects demonstrating various model-building techniques, including data preprocessing, feature engineering, and model evaluation.  
+This repository contains Machine Learning (ML) and Deep Learning (DL) Gen AI (LLM) projects demonstrating various model-building techniques, including data preprocessing, feature engineering, and model evaluation.  
 
 🚀 Technologies & Tools
 Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Jupyter Notebook, Google Colab
@@ -63,6 +63,21 @@ Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Jupyter Note
 - CNN Architecture (Conv2D, MaxPooling, Flatten, Dense Layers)
 - Model Training & Hyperparameter Tuning
 - Performance Evaluation (Accuracy)
+
+## 📂 Gen AI Projects
+
+### 1️⃣ GenAI - Medical Assistant Chatbot (RAG Based)
+##### 📌 **File:** RAG_Medical_Assistant.ipynb
+##### 🔹 **Objective:** Built a chatbot that answers medical queries on diseases like [Diabetes, Hypertension, Asthma, Tuberculosis, Cancer, and Malaria] using RAG (Retrieval-Augmented Generation).
+##### 🔹 **Techniques Used:**
+
+- Wikipedia-based Knowledge Retrieval
+- Text Chunking & Preprocessing
+- Embedding Generation with Vector Store
+- Conversational Memory Modules
+- MultiQueryRetriever Setup
+- Conversational Retrieval Chain Initialization
+- LLM Integration for Interactive Q&A
 
 
 #### **📌 Learning & Next Steps**
