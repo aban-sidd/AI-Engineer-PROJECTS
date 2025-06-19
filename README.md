@@ -79,6 +79,20 @@ Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Jupyter Note
 - Conversational Retrieval Chain Initialization
 - LLM Integration for Interactive Q&A
 
+### 2️⃣ GenAI - AI Agent Task Assistant
+##### 📌 **File:** `AI_Agent_Task_Assistant.ipynb`
+##### 🔹 **Objective:** Built a smart AI assistant that performs real-time web search, text summarization, and translation across 200+ languages using custom tools and LLMs.
+##### 🔹 **Techniques Used:**
+
+- Web Search with Tavily API (custom LangChain tool)
+- Text Summarization (custom LLM tool)
+- Language Translation using `facebook/nllb-200-distilled-600M` via Hugging Face
+- Transformer Pipeline for Translation Tasks
+- LangChain Agent with OpenAI Integration
+- ConversationalBufferMemory for memory context
+- Prompt Template with embedded memory support
+- AgentExecutor for tool + memory orchestration
+
 
 #### **📌 Learning & Next Steps**
 I am currently improving my deep learning skills and exploring advanced AI/ML topics. Feel free to check out my projects 
